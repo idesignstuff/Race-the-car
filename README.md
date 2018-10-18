@@ -1,6 +1,6 @@
 # Race-the-car
 An exciting strategy board game created on python,as a part of learning project.  
-More like a shorter version of chess, where one needs to stay focussed ,anticipate the other player moves and cover all the tracks.
+More like a shorter version of chess, where one needs to stay focussed, anticipate the other player moves and cover all the tracks.
 
 ## Installation guide
 #### Option 1: By creating a Executable file
@@ -9,7 +9,7 @@ More like a shorter version of chess, where one needs to stay focussed ,anticipa
 $ git clone https://github.com/NJACKWinterOfCode/Race-the-car.git
 $ cd Race-the-car
 ```
-* If you don't have cx_Freeze installed, get it by typing the following in command promt(for Windows)
+* If you don't have cx_Freeze installed, get it by typing the following in command prompt(for Windows)
 ```sh
 $ pip install cx_Freeze
 ```
@@ -17,7 +17,7 @@ $ pip install cx_Freeze
 ```sh
 $ sudo apt install cx-freeze
 ```
-* After installing cx_Freeze type the following in command pront/terminal
+* After installing cx_Freeze type the following in command prompt/terminal
 ```sh
 $ python setup.py build
 ```
@@ -29,7 +29,7 @@ $ python setup.py build
 $ git clone https://github.com/NJACKWinterOfCode/Race-the-car.git
 $ cd Race-the-car
 ```
-* Install all dependencies using requirements.txt by executing the follwing command in command promt/terminal
+* Install all dependencies using requirements.txt by executing the follwing command in command prompt/terminal
 ```sh
 $ pip install -r requirements.txt
 ```
